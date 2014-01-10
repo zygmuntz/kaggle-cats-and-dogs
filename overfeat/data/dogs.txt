@@ -1,0 +1,228 @@
+canine, canid
+wild dog
+raccoon dog, Nyctereutes procyonides
+dhole, Cuon alpinus
+dingo, warrigal, warragal, Canis dingo
+crab-eating dog, crab-eating fox, Dusicyon cancrivorus
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
+hyena, hyaena
+striped hyena, Hyaena hyaena
+aardwolf, Proteles cristata
+spotted hyena, laughing hyena, Crocuta crocuta
+brown hyena, strand wolf, Hyaena brunnea
+bitch
+brood bitch
+jackal, Canis aureus
+fox
+kit fox, Vulpes macrotis
+red fox, Vulpes fulva
+red fox, Vulpes vulpes
+black fox
+silver fox
+grey fox, gray fox, Urocyon cinereoargenteus
+vixen
+Arctic fox, white fox, Alopex lagopus
+blue fox
+kit fox, prairie fox, Vulpes velox
+Reynard
+wolf
+wolf pup, wolf cub
+red wolf, maned wolf, Canis rufus, Canis niger
+coyote, prairie wolf, brush wolf, Canis latrans
+white wolf, Arctic wolf, Canis lupus tundrarum
+timber wolf, grey wolf, gray wolf, Canis lupus
+dog, domestic dog, Canis familiaris
+puppy
+toy dog, toy
+Chihuahua
+toy terrier
+toy spaniel
+King Charles spaniel
+papillon
+English toy spaniel
+Blenheim spaniel
+Shih-Tzu
+Pekinese, Pekingese, Peke
+Maltese dog, Maltese terrier, Maltese
+Japanese spaniel
+dalmatian, coach dog, carriage dog
+liver-spotted dalmatian
+Great Pyrenees
+hunting dog
+courser
+sporting dog, gun dog
+pointer, Spanish pointer
+vizsla, Hungarian pointer
+German short-haired pointer
+setter
+English setter
+Gordon setter
+Irish setter, red setter
+bird dog
+spaniel
+Sussex spaniel
+field spaniel
+water spaniel
+American water spaniel
+Irish water spaniel
+cocker spaniel, English cocker spaniel, cocker
+springer spaniel, springer
+Welsh springer spaniel
+English springer, English springer spaniel
+Brittany spaniel
+clumber, clumber spaniel
+griffon, wire-haired pointing griffon
+water dog
+retriever
+Chesapeake Bay retriever
+curly-coated retriever
+golden retriever
+flat-coated retriever
+Labrador retriever
+dachshund, dachsie, badger dog
+sausage dog, sausage hound
+terrier
+Scotch terrier, Scottish terrier, Scottie
+bullterrier, bull terrier
+Staffordshire bullterrier, Staffordshire bull terrier
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier
+Norwich terrier
+rat terrier, ratter
+Manchester terrier, black-and-tan terrier
+toy Manchester, toy Manchester terrier
+schnauzer
+giant schnauzer
+miniature schnauzer
+standard schnauzer
+silky terrier, Sydney silky
+Skye terrier
+Clydesdale terrier
+Tibetan terrier, chrysanthemum dog
+wirehair, wirehaired terrier, wire-haired terrier
+Lakeland terrier
+Welsh terrier
+Sealyham terrier, Sealyham
+Irish terrier
+Lhasa, Lhasa apso
+Border terrier
+fox terrier
+smooth-haired fox terrier
+wire-haired fox terrier
+West Highland white terrier
+Bedlington terrier
+soft-coated wheaten terrier
+Kerry blue terrier
+Airedale, Airedale terrier
+Australian terrier
+Boston bull, Boston terrier
+Norfolk terrier
+Yorkshire terrier
+cairn, cairn terrier
+Dandie Dinmont, Dandie Dinmont terrier
+hound, hound dog
+Norwegian elkhound, elkhound
+wolfhound
+borzoi, Russian wolfhound
+Irish wolfhound
+bluetick
+Afghan hound, Afghan
+beagle
+bloodhound, sleuthhound
+foxhound
+Walker hound, Walker foxhound
+American foxhound
+English foxhound
+otterhound, otter hound
+redbone
+Saluki, gazelle hound
+boarhound
+staghound
+basset, basset hound
+Scottish deerhound, deerhound
+coonhound
+black-and-tan coonhound
+coondog
+Plott hound
+harrier
+Weimaraner
+Ibizan hound, Ibizan Podenco
+greyhound
+whippet
+Italian greyhound
+Rhodesian ridgeback
+Mexican hairless
+lapdog
+basenji
+pug, pug-dog
+spitz
+Samoyed, Samoyede
+keeshond
+chow, chow chow
+Pomeranian
+corgi, Welsh corgi
+Cardigan, Cardigan Welsh corgi
+Pembroke, Pembroke Welsh corgi
+working dog
+boxer
+seizure-alert dog
+watchdog, guard dog
+kuvasz
+schipperke
+pinscher
+Doberman, Doberman pinscher
+affenpinscher, monkey pinscher, monkey dog
+miniature pinscher
+housedog
+attack dog
+Saint Bernard, St Bernard
+shepherd dog, sheepdog, sheep dog
+Belgian sheepdog, Belgian shepherd
+malinois
+groenendael
+kelpie
+komondor
+Old English sheepdog, bobtail
+Shetland sheepdog, Shetland sheep dog, Shetland
+collie
+Border collie
+Rottweiler
+Bouvier des Flandres, Bouviers des Flandres
+German shepherd, German shepherd dog, German police dog, alsatian
+briard
+bull mastiff
+Sennenhunde
+EntleBucher
+Bernese mountain dog
+Greater Swiss Mountain dog
+Appenzeller
+police dog
+Eskimo dog, husky
+guide dog
+Seeing Eye dog
+bulldog, English bulldog
+French bulldog
+Great Dane
+mastiff
+Tibetan mastiff
+hearing dog
+sled dog, sledge dog
+Siberian husky
+malamute, malemute, Alaskan malamute
+Leonberg
+pooch, doggie, doggy, barker, bow-wow
+Newfoundland, Newfoundland dog
+poodle, poodle dog
+miniature poodle
+large poodle
+toy poodle
+standard poodle
+griffon, Brussels griffon, Belgian griffon
+Brabancon griffon
+cur, mongrel, mutt
+feist, fice
+pariah dog, pye-dog, pie-dog
+grey fox, gray fox, Urocyon cinereoargenteus
+kit fox, Vulpes macrotis
+timber wolf, grey wolf, gray wolf, Canis lupus
+red fox, Vulpes vulpes
+coyote, prairie wolf, brush wolf, Canis latrans

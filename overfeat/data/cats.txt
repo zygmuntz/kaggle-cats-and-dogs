@@ -1,0 +1,103 @@
+feline, felid
+big cat, cat
+saber-toothed tiger, sabertooth
+Smiledon californicus
+false saber-toothed tiger
+lion, king of beasts, Panthera leo
+lion cub
+lioness
+lionet
+liger
+jaguar, panther, Panthera onca, Felis onca
+snow leopard, ounce, Panthera uncia
+tiglon, tigon
+leopard, Panthera pardus
+leopardess
+panther
+tiger, Panthera tigris
+tigress
+Bengal tiger
+tiger cub
+cheetah, chetah, Acinonyx jubatus
+cat, true cat
+domestic cat, house cat, Felis domesticus, Felis catus
+Egyptian cat
+tortoiseshell, tortoiseshell-cat, calico cat
+tabby, tabby cat
+Abyssinian, Abyssinian cat
+alley cat
+Burmese cat
+tabby, queen
+Maltese, Maltese cat
+Manx, Manx cat
+Siamese cat, Siamese
+blue point Siamese
+tom, tomcat
+gib
+Angora, Angora cat
+tiger cat
+kitty, kitty-cat, puss, pussy, pussycat
+Persian cat
+mouser
+wildcat
+ocelot, panther cat, Felis pardalis
+manul, Pallas's cat, Felis manul
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
+lynx, catamount
+Canada lynx, Lynx canadensis
+caracal, desert lynx, Lynx caracal
+common lynx, Lynx lynx
+spotted lynx, Lynx pardina
+bobcat, bay lynx, Lynx rufus
+margay, margay cat, Felis wiedi
+jungle cat, Felis chaus
+kaffir cat, caffer cat, Felis ocreata
+tiger cat, Felis tigrina
+European wildcat, catamountain, Felis silvestris
+leopard cat, Felis bengalensis
+serval, Felis serval
+sand cat
+musteline mammal, mustelid, musteline
+badger
+ferret badger
+Eurasian badger, Meles meles
+American badger, Taxidea taxus
+hog badger, hog-nosed badger, sand badger, Arctonyx collaris
+polecat, fitch, foulmart, foumart, Mustela putorius
+ferret
+tayra, taira, Eira barbara
+sea otter, Enhydra lutris
+ratel, honey badger, Mellivora capensis
+wolverine, carcajou, skunk bear, Gulo luscus
+weasel
+ermine, shorttail weasel, Mustela erminea
+stoat
+muishond
+zoril, Ictonyx frenata
+snake muishond, Poecilogale albinucha
+striped muishond, Ictonyx striata
+Old World least weasel, Mustela nivalis
+longtail weasel, long-tailed weasel, Mustela frenata
+New World least weasel, Mustela rixosa
+marten, marten cat
+stone marten, beech marten, Martes foina
+fisher, pekan, fisher cat, black cat, Martes pennanti
+pine marten, Martes martes
+yellow-throated marten, Charronia flavigula
+American marten, American sable, Martes americana
+sable, Martes zibellina
+skunk, polecat, wood pussy
+striped skunk, Mephitis mephitis
+spotted skunk, little spotted skunk, Spilogale putorius
+hog-nosed skunk, hognosed skunk, badger skunk, rooter skunk, Conepatus leuconotus
+hooded skunk, Mephitis macroura
+black-footed ferret, ferret, Mustela nigripes
+grison, Grison vittatus, Galictis vittatus
+glutton, Gulo gulo, wolverine
+mink
+American mink, Mustela vison
+otter
+river otter, Lutra canadensis
+Eurasian otter, Lutra lutra
+ 
