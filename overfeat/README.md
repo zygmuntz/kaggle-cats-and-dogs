@@ -5,3 +5,4 @@ You don't need to run `overfeat_classify.py` for the training images, prediction
 	data/overfeat_predictions_train.tar.gz - OverFeat predictions for the training images
 	compute_train_acc.py - compute accuracy of the OverFeat predictions
 	overfeat_classify.py - batch classification script
+	predict.py - produce a file for Kaggle from OverFeat predictions on test images
