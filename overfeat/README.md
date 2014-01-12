@@ -8,3 +8,5 @@ See [http://fastml.com/classifying-images-with-a-pre-trained-deep-network](http:
 	predict.py - produce a file for Kaggle from OverFeat predictions on test images
 
 You don't need to run `overfeat_classify.py` for the training images, predictions are provided.
+
+This software is available under Doge General Public License (see LICENSE.txt).
